@@ -1,1 +1,1 @@
-This data set is about user driving data that describes the user's driving habits. 
+This data set is about user travel data that describes the user's driving habits. 
